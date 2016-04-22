@@ -15,7 +15,10 @@ POUET POUET
 >>>>>>> 7c9e3d825b51181af27d8fb36196f8ec30e41e94
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 6cdf53a483d32e3e32a3a78e226af28c1fd7098d:bienvenue.txt
+=======
+>>>>>>> 3a2f9ebda61c5e4f655b80f4f78a73902ff84518
 =======
 reremodifv2
 >>>>>>> 0e6d410c672a6dec471244f1892090c7bab097fb
@@ -26,7 +29,18 @@ re
 <<<<<<< HEAD
 rere modif
 >>>>>>> c8d93deeba7cd6640a34fe5e6dcdc1fb1675b5f9
+<<<<<<< HEAD
+=======
+est ce que ça marche toujours?
+>>>>>>> 3a2f9ebda61c5e4f655b80f4f78a73902ff84518
 =======
 rerere modif
 >>>>>>> 6d25769bbd645ae757ba6b855319d37314befe6c
 >>>>>>> 0e6d410c672a6dec471244f1892090c7bab097fb
+<<<<<<< HEAD
+=======
+test2
+test vm linux
+retest linux
+
+>>>>>>> 3a2f9ebda61c5e4f655b80f4f78a73902ff84518
