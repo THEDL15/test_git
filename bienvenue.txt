@@ -14,10 +14,19 @@ j'ai refais une modif
 POUET POUET
 >>>>>>> 7c9e3d825b51181af27d8fb36196f8ec30e41e94
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 6cdf53a483d32e3e32a3a78e226af28c1fd7098d:bienvenue.txt
+=======
+reremodifv2
+>>>>>>> 0e6d410c672a6dec471244f1892090c7bab097fb
 =======
 42
 Ca remarche top cool !!!
 re
+<<<<<<< HEAD
 rere modif
 >>>>>>> c8d93deeba7cd6640a34fe5e6dcdc1fb1675b5f9
+=======
+rerere modif
+>>>>>>> 6d25769bbd645ae757ba6b855319d37314befe6c
+>>>>>>> 0e6d410c672a6dec471244f1892090c7bab097fb
