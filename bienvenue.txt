@@ -25,3 +25,6 @@ rerere modif
 >>>>>>> 6d25769bbd645ae757ba6b855319d37314befe6c
 >>>>>>> 0e6d410c672a6dec471244f1892090c7bab097fb
 test2
+test vm linux
+retest linux
+
