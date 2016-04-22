@@ -1,12 +1,1 @@
-<<<<<<< HEAD
 Salut les DL15
-ola
-=======
-Salut les vilains
-j'ai fais une modif ylm
-j'ai refais une modif
-POUET POUET
->>>>>>> 7c9e3d825b51181af27d8fb36196f8ec30e41e94
-42
-Ca remarche top cool !!!
-re
